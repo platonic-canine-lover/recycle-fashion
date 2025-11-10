@@ -1,0 +1,6 @@
+<key>NSCameraUsageDescription</key>
+<string>We need camera access to photograph your clothes for recycling.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>We need photo library access to select clothes photos.</string>
+<key>NSPhotoLibraryAddUsageDescription</key>
+<string>We need to save photos if you take them with the app.</string>
