@@ -16,7 +16,7 @@ Take a photo, enter the weight, get 10 points per kg → 100 points = **£10 vou
 ## Getting Started
 
 ```bash
-git clone https://github.com/YourUsername/RecycleFashion.git
-cd RecycleFashion
+git clone https://github.com/platonic-canine-lover/recycle-fashion.git
+cd recycle-fashion
 flutter pub get
 flutter run
